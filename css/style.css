@@ -130,7 +130,6 @@ span{
     width: 150px;
     height: 70px;
     color: red;
-    background-color: gray;
     text-align: center;
     vertical-align: middle;
     line-height: 70px;
@@ -140,4 +139,8 @@ span{
     color: green;
 }
 
+
+.right-side:hover{
+    background-color: gray;
+}
         
